@@ -9,6 +9,6 @@ StudentHub es una plataforma universitaria para administrar información de estu
 
 ## Equipo
 
-- Developer A
-- Developer B
+- Developer A (Sebastian Peralta)
+- Developer B (Keiner Chiquillo)
 
