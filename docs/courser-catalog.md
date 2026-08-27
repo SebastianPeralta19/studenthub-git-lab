@@ -1,10 +1,11 @@
-# Student Profile
+# Course Catalog
 
-La funcionalidad permitirá consultar:
+El catálogo permitirá consultar:
 
-- identificación;
+- código del curso;
 - nombre;
-- correo;
-- programa académico;
-- semestre.
+- número de créditos;
+- profesor;
+- cupos disponibles.
+
 
